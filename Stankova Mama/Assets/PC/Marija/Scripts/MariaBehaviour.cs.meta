@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3120a2d55f6528645ac92e5d906d119f
+timeCreated: 1451891837
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Stanko: {fileID: 402466, guid: 721e8ed97f7ea054a9a7d6b60b94f6b2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
